@@ -1,10 +1,10 @@
 {
   "name": "infusionsoft-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A NodeJS SDK automatically generated from Infusionsoft API Swagger definitions.",
-  "repository" : { 
-    "type" : "git", 
-	"url" : "https://github.com/infusionsoft/infusionsoft-sdk-nodejs"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infusionsoft/infusionsoft-sdk-nodejs"
   },
   "main": "index.js",
   "keywords": [
